@@ -8,12 +8,12 @@ h1{
 .clrorange{
     color:orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150px;
 }
 .half-width{
-    width: 50%;
+    width: 40%;
     padding-left: 5%;
 }
 .half-width img{
